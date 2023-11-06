@@ -1,0 +1,22 @@
+/* Agrega aquí tus estilos CSS personalizados */
+
+/* Estilos para el botón Nuevo Vestido */
+.navbar .nav-link {
+    color: white;
+    cursor: pointer;
+  }
+  
+  /* Estilos para las tarjetas de vestidos */
+  .card {
+    margin-bottom: 30px;
+  }
+  
+  .card-title {
+    align-self: center;
+  }
+  
+  /* Estilos para los botones de edición y eliminación */
+  .btn-group-sm .btn {
+    margin-right: 10px;
+  }
+  
